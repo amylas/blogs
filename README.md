@@ -1,2 +1,2 @@
 # blogs
-reading notes and think
+Reading notes, thinking, memos, etc.
